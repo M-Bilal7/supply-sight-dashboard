@@ -60,12 +60,19 @@ The project demonstrates how to build a React + Tailwind application, connect it
 supply-sight-dashboard/
 
 ├── src/
+
 │ ├── components/ # KPI Cards, Products Table, Drawer, etc.
+
 │ ├── graphql/ # Queries & Mutations
+
 │ ├── pages/ # ProductsPage (main dashboard)
+
 │ ├── utils/ # Utility functions (computeTotals, etc.)
+
 │ └── index.js # React entry point
+
 ├── mock-server/ # Apollo GraphQL server
+
 └── README.md # Project documentation
 
 
