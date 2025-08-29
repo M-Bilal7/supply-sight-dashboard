@@ -58,6 +58,7 @@ The project demonstrates how to build a React + Tailwind application, connect it
 ## 📂 Project Structure
 
 supply-sight-dashboard/
+
 ├── src/
 │ ├── components/ # KPI Cards, Products Table, Drawer, etc.
 │ ├── graphql/ # Queries & Mutations
