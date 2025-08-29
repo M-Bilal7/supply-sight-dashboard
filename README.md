@@ -6,7 +6,7 @@ The project demonstrates how to build a React + Tailwind application, connect it
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Dashboard Layout**
   - Top bar with `SupplySight` logo and date range chips (`7d / 14d / 30d`).
@@ -23,9 +23,9 @@ The project demonstrates how to build a React + Tailwind application, connect it
 - **Products Table**
   - Columns: Product, SKU, Warehouse, Stock, Demand, Status.
   - Status rules:
-    - ✅ **Healthy** = stock > demand (green pill).
-    - ⚠️ **Low** = stock = demand (yellow pill).
-    - ❌ **Critical** = stock < demand (red pill, row tinted).
+    - **Healthy** = stock > demand (green pill).
+    - **Low** = stock = demand (yellow pill).
+    - **Critical** = stock < demand (red pill, row tinted).
   - Pagination (10 rows per page).
 
 - **Product Drawer**
@@ -41,7 +41,7 @@ The project demonstrates how to build a React + Tailwind application, connect it
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**
   - React
@@ -55,7 +55,7 @@ The project demonstrates how to build a React + Tailwind application, connect it
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 supply-sight-dashboard/
 
@@ -78,7 +78,7 @@ supply-sight-dashboard/
 
 ---
 
-## ⚙️ Setup & Installation
+## Setup & Installation
 
 ### 1. Clone the Repository
 bash
