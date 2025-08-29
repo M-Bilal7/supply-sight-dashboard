@@ -81,16 +81,16 @@ supply-sight-dashboard/
 ## ⚙️ Setup & Installation
 
 ### 1. Clone the Repository
-```bash
+bash
 git clone https://github.com/<your-username>/supply-sight-dashboard.git
 cd supply-sight-dashboard
 
 ### 2. Install Dependencies
-```bash
+bash
 npm install
 
 ### 3. Start the Mock GraphQL Server
-```bash
+bash
 cd mock-server
 node index.js
 
@@ -98,11 +98,10 @@ Server will start at:
 http://localhost:4000/
 
 ### 4. Start the Frontend
-
 In another terminal:
-```bash
+bash
 cd ..
 npm start
 
 Frontend will run at:
-```http://localhost:3000/
+http://localhost:3000/
